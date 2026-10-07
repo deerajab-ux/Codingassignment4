@@ -1,0 +1,92 @@
+
+  body {
+      background-color: goldenrod;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: darkslategrey;
+      font-size: 18px;
+      padding: 10px;
+  }
+
+
+  fieldset {
+    field-sizing: 250px;
+    border: 3px solid darkslategrey;
+    border-radius: 10px;
+    background-color: darkorange;
+
+  }
+
+  legend {
+    font-size: 1.1rem;
+    border: 2px solid darkslategrey;
+    border-radius: 5x;
+    color: black;
+    padding: 10px;
+  }
+
+ 
+  header p {
+    text-align: left;
+  }
+
+   p {
+    text-align: right;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Bangers', cursive;
+    font-size: 25px;
+  }
+
+  li {
+    font-size: 1rem;
+
+  }
+
+  .wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 10px;
+
+  }
+
+  .wrapper div {
+    flex: 100px;
+    padding: 10px;
+  }
+
+  div {
+    border: cornflowerblue;
+  }
+
+  .box1 img {
+    width: 400px;
+    height: 400; 
+  }
+
+  .box1 {
+    text-align: center;
+  }
+
+  .box1 h1 {
+    font-size: 2rem;
+  }
+
+  .box1 h2 {
+    font-size: 1.5rem;
+  }
+
+  .box1 p {
+    font-style: italic;
+  }
+
+  .box2 li {
+    font-size: 1.3rem;
+    line-height: 1.6;
+  }  
+
+  .box4 li {
+    font-size: 1.3rem;
+    line-height: 1.6;
+  }
