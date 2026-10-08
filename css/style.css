@@ -1,6 +1,6 @@
 
   body {
-      background-color: goldenrod;
+      background-color: oldlace;
       font-family: Georgia, 'Times New Roman', Times, serif;
       color: darkslategrey;
       font-size: 18px;
@@ -10,9 +10,9 @@
 
   fieldset {
     width: 250px;
-    border: 3px solid darkslategrey;
+    border: 3px solid saddlebrown;
     border-radius: 10px;
-    background-color: darkorange;
+    background-color: blanchedalmond;
 
   }
 
@@ -25,6 +25,13 @@
   }
 
  
+ .menu ul {
+  font-size: 250px;
+  border: 3px solid saddlebrown;
+  border-radius: 10px;
+  background-color: floralwhite;
+ }
+
   header p {
     text-align: left;
   }
@@ -36,10 +43,11 @@
   h1, h2, h3, h4 {
     font-family: 'Bangers', cursive;
     font-size: 25px;
+    color: saddlebrown
   }
 
   li {
-    font-size: 1rem;
+    font-size: 2rem;
 
   }
 
