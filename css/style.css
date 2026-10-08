@@ -25,7 +25,7 @@
   }
 
  
- .menu ul {
+ .menus ul {
   font-size: 250px;
   border: 3px solid saddlebrown;
   border-radius: 10px;
@@ -43,11 +43,11 @@
   h1, h2, h3, h4 {
     font-family: 'Bangers', cursive;
     font-size: 25px;
-    color: saddlebrown
+    color: saddlebrown;
   }
 
   li {
-    font-size: 2rem;
+    font-size: 1.2rem;
 
   }
 
