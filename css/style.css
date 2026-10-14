@@ -13,6 +13,9 @@
     border: 3px solid saddlebrown;
     border-radius: 10px;
     background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
   }
 
@@ -23,7 +26,12 @@
     color: black;
     padding: 10px;
   }
-
+ .menu ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ }
 
  .menus li { 
     background-color: saddlebrown;
@@ -34,6 +42,7 @@
     text-align: center;
     display: flex; 
     justify-content: center;
+    
  }
 
   header h2 {
@@ -105,9 +114,9 @@
     line-height: 1.6;
   }
 
-  /*div {
+  div {
     border: double cornflowerblue; 
-  }*/
+  }
 
 
 * {
