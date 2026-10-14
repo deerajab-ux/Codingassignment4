@@ -36,8 +36,8 @@
     justify-content: center;
  }
 
-  header {
-    font-size: 35px;
+  header h2 {
+    font-size: 40px;
   }
 
   header p {
@@ -105,9 +105,9 @@
     line-height: 1.6;
   }
 
-  div {
-   /* border: double cornflowerblue; */
-  }
+  /*div {
+    border: double cornflowerblue; 
+  }*/
 
 
 * {
