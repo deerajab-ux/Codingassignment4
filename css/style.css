@@ -5,6 +5,7 @@
       color: darkslategrey;
       font-size: 18px;
       padding: 10px;
+      background-image: url(/images/White\ warm\ color\ background.jpg);
   }
 
 
@@ -27,13 +28,8 @@
     padding: 10px;
   }
 
- .menus ul {
+ .menus {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-    
  }
 
  .menus li { 
