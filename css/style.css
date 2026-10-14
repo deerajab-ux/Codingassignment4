@@ -28,7 +28,8 @@
  .menus li { 
     border: 3px solid darkslategrey;
     background-color: saddlebrown;
-    color: oldlace 
+    color: oldlace;
+    margin-bottom: 10px;
  }
 
   header p {
